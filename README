@@ -19,6 +19,9 @@
     
     ////// Acerca del proyecto
     
+    **To use the english version change all the image formats in the code 
+    from .jpg to .png
+    
     Las calles se encuentran cubiertas de texto. Pintas, publicidad, anuncios,
     grafitis y propaganda coinciden en las superficies urbanas que delimitan el
     espacio público. La presencia y la permanencia del texto en la calle son una
@@ -54,11 +57,42 @@
     el mexicano estereotipo con el léxico local propio de las calles de la
     colonia Guerrero.
     
+    ///// English translation
+    
+    Words cover the city’s streets. Painted signs, advertisements, warnings,
+    graffiti, and propaganda mark the limits of public spaces. Their presence
+    and permanence illustrate the conflicts between people with authority,
+    control, resources, and guile. Each sign is distinct: handwritten fruit
+    labels, promotions at the Oxxo store for one peso, generic supermarket
+    posters, and declarations of love in schoolhouse ink.
+    
+    Guerrero Texts is a computational linguistic experiment based on the way
+    structure and content, grammar and lexicon, relate in public spaces.
+    
+    For three weeks, I walked through the neighborhood of Guerrero in Mexico
+    City and photographed signs. I collected the words residents read and
+    write daily. But I also found texts that were not originally from Guerrero,
+    the government’s warnings and announcements. Since they did not form part
+    of the neighborhood’s vocabulary, they looked out of place.
+    
+    I broke down the grammatical structure of one government mantra: "This
+    program is public, unaffiliated with any political party. It is prohibited
+    to use it for purposes others than those stated in the program." This
+    bureaucratic poem haunts Mexicans from the radio to the television to
+    the streets. I found it in the window of a government office, printed
+    and reprinted to block a view of the interior, like a series of opaque
+    acts.
+    
+    The sign is the basis for a program that randomly substitutes particles of
+    speech from the photograph collection. The experiment replaces instructions
+    for the general Mexican public with the local lexicon of Guerrero, rejecting
+    the government’s structures of control.
+    
     Pablo Somonte Ruano, 2017
-    para oral.pub 
+    para <a href="https://oral.pub"> oral.pub <a>
     Traducción a inglés por Maya Averbuch
-    Mapa de openstreetmap 
-    código disponible aquí como software libre e imágenes disponibles bajo una 
-    licencia creative commons CC BY-NC-SA 4.0
+    Mapa de <a href="https://www.openstreetmap.org"> openstreetmap <a>
+    <a href="https://github.com/herramienta-digital/textosGuerreros_oral_esp"> código disponible aquí <a> como software libre e
+      imágenes disponibles bajo una licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"> creative commons CC BY-NC-SA 4.0</a>
       
     contacto: herramienta(at)herramienta.digital
