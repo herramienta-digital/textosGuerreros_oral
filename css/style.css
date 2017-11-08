@@ -1,0 +1,119 @@
+body{
+	background-color: white;
+}
+
+canvas {
+	margin-top: 3%;
+
+	width:99% !important;
+}
+
+#canvasProcessing{
+	margin-bottom: 7%;
+}
+
+#bgMapa{
+	width:100%;
+	height:auto;
+	position: fixed;
+	z-index: -99;
+	display: none;
+}
+
+#textos{
+	margin-left: 4px;
+	padding-top: 10px;
+	width: 99%;
+	font-size: 3.3vw;
+	font-family: sans-serif;
+	font-weight: 500;
+	display: none;
+}
+
+#guerrerosjpg{
+	max-width: 360px;
+	width: 30%;
+	display: none;
+}
+
+#txtAcerca{
+	margin-left: 4px;
+	font-size: 1.2em;
+	line-height: 1.6em;
+	color: black;
+	margin-right: 15%;
+	display: none;
+	position:absolute;
+	float: left;
+}
+
+mark{
+	background-color: white;
+}
+
+@media (max-width: 1440px) {
+
+	#canvasProcessing{
+		margin-bottom: 11%;
+	}
+}
+
+@media (max-width: 1080px) {
+
+
+		#txtAcerca{
+			font-size: 1.45em;
+			line-height: 1.7em;
+			margin-right: 3%;
+		}
+
+		#textos{
+			font-size: 2.2em;
+		}
+
+}
+
+/*
+@media (max-width: 1440px) {
+
+    #txtAcerca {
+        font-size: 1.2em;
+				line-height: 1.6em;
+				margin-right: 12%;
+				top: 76%;
+    }
+}
+
+@media (max-width: 1100px) {
+
+    #txtAcerca {
+        font-size: 1.2em;
+				line-height: 1.6em;
+				margin-right: 10%;
+				top: 70%;
+    }
+}
+
+@media (max-width: 900px) {
+
+    #txtAcerca {
+				margin-right: 8%;
+				top: 58%;
+    }
+}
+
+@media (max-width: 750px) {
+
+    #txtAcerca {
+				margin-right: 5%;
+				top: 50%;
+    }
+
+		@media (max-width: 600px) {
+
+		    #txtAcerca {
+						margin-right: 3%;
+						top: 45%;
+		    }
+}
+*/
